@@ -1,6 +1,6 @@
 *Disclaimer*
 
-> This is a specific react + typescript + react testing library project only for study proposes.
+> This is a specific node + mocha + chai project only for study proposes.
 
 # Event Emitter: Async Search
 
