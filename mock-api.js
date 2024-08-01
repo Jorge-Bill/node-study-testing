@@ -1,5 +1,5 @@
-const countMatches = (searchTerm) => {
-    return new Promise((resolve, reject) => {
+const countMatches = async (searchTerm) => {
+    return await new Promise((resolve, reject) => {
         setTimeout(() => {
             const value = Math.floor(Math.random() * 100) + 1
             if (searchTerm !== 'error') {
