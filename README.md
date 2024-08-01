@@ -1,3 +1,7 @@
+*Disclaimer*
+
+> This is a specific react + typescript + react testing library project only for study proposes.
+
 # Event Emitter: Async Search
 
 ## Class Definition
